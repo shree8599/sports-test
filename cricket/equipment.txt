@@ -1,0 +1,1 @@
+cricket uses bat,ball,stumps,pad etc
